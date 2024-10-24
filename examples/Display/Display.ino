@@ -60,6 +60,6 @@ void loop() {
   lcd.noDisplay();
   delay(500);
   // Turn on the display:
-  lcd.display();
+  lcd.displ();
   delay(500);
 }
